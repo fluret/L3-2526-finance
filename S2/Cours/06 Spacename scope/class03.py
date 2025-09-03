@@ -1,0 +1,1 @@
+A.undefined  # Try to access an undefined class attribute

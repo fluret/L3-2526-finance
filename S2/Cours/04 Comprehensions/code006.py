@@ -1,0 +1,1 @@
+new_list = [expression for member in iterable if conditional]

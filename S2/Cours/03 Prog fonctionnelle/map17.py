@@ -1,0 +1,1 @@
+print("".join(map(rotate_chr, "My secret message goes here.")))

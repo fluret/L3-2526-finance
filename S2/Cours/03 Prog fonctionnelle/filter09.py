@@ -1,0 +1,1 @@
+list(filter(is_prime, range(1, 51)))

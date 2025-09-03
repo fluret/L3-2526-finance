@@ -1,0 +1,1 @@
+print(list(zip(range(5), range(100), strict=True)))

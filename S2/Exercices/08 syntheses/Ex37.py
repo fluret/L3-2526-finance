@@ -1,0 +1,15 @@
+liste_vals = [('=', 'C'), ('A', 'C'), ('a', 'C'),
+              ('A', 'c'), ('D', 'C', {'encode': False}), ('A', 'L'),
+              ('Z', 'L'), ('a', 'c'), ('N', 'L'),
+              ('O', 'L'), ('D', 'C', {'encode': False}
+                           ), ('D', 'c', {'encode': False}),
+              ('D', 'c', {'encode': True}), ('a',
+                                             'c', True), ('a', 'c', False),
+              ('a', 'J', True), ('a', 'J', False), ('a', 'T', True),
+              ('a', 'T', False), ('a', 'x', True), ('a', 'x', False),
+              ('N', 'c', True), ('N', 'c', False), ('N', 'J', True),
+              ('N', 'J', False), ('N', 'T', True), ('N', 'T', False),
+              ('N', 'x', True), ('N', 'x', False), ('z', 'c', True),
+              ('z', 'c', False), ('z', 'J', True), ('z', 'J', False),
+              ('z', 'T', True), ('z', 'T', False), ('z', 'x', True),
+              ('z', 'x', False)]

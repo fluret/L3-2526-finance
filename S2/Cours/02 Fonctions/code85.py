@@ -1,0 +1,1 @@
+concat(prefix='//', 'a', 'b', 'c')

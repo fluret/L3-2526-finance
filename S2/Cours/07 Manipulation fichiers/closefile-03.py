@@ -1,0 +1,1 @@
+files = [open(fr"file-{n}.txt", mode="w+") for n in range(10_000)]

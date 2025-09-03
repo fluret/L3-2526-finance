@@ -1,0 +1,1 @@
+print([name for name in globals() if name.startswith('__')])
