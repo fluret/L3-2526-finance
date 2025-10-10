@@ -1,6 +1,6 @@
 # Demander à l'utilisateur de saisir un entier pour la taille du damier
 n = int(input("Entrez la taille du damier : "))
-
+#test synchro github
 # Générer et afficher le damier
 for i in range(n):
     ligne = ""
